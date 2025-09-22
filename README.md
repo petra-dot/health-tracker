@@ -304,7 +304,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - **[Expo Team](https://expo.dev/)**: For the excellent React Native development platform.
 - **[React Native Community](https://reactnative.dev/)**: For the comprehensive ecosystem of libraries.
-- **Cline AI**: For revolutionary AI-assistance in modern software development.
+- **[Cline AI](https://cline.bot/)**: For revolutionary AI-assistance in modern software development.
 - **[Open Source Contributors](https://github.com/petra-dot/health-tracker/graphs/contributors)**: For the amazing tools and libraries used in this project.
 
 ---
